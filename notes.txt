@@ -1,0 +1,5 @@
+$ mkdir module301
+$ cd module301
+$ mkdir 2024-10-04-command-line
+$ cd 2024-10-04-command-line
+$ touch notes.txt
